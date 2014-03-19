@@ -1,11 +1,11 @@
 body {
   font-family: 'Nunito', sans-serif;
-  color: #FAF3BC;
-  background: #420600 url('img/bg-texture.jpg') repeat;
+  color: black;
+  background: #420600 url('http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_528c2ebf28f7c_1.JPG') repeat;
 }
 
 a {
-  color: #4FB69F;
+  color: black;
   text-decoration: none;
 }
 
@@ -15,9 +15,21 @@ h1 {
 }
 
 h2 {
-  font-size: 1.500em;
-  color: #B4C34F;
+  font-family: 'Monofett', sans-serif;
+  font-size: 2em;
+  color: black;
 }
+
+
+#rounded{
+  border-radius: 10px;
+  border: 8px solid black;
+  height: 250px;
+  width: 250px;
+
+}
+
+
 
 .btn {
   color: #FAF3BC;
@@ -44,7 +56,7 @@ ul.nav li {
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: black;
 }
 
 #intro {
@@ -66,8 +78,6 @@ ul.nav li a {
   margin: 15px 0px;
   text-align: center;
 }
-
-
 
 
 
