@@ -30,7 +30,10 @@ p{
   border: 8px solid black;
   height: 250px;
   width: 250px;
+}
 
+.portfolio-list{
+  list-style-type: none;  
 }
 
 

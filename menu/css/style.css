@@ -1,0 +1,66 @@
+h1{
+  font-family: 'Courgette', sans-serif;
+  margin-left: 1%;
+}
+
+h2{
+  font-family: 'Strait', sans-serif;
+  margin-left: 5%;
+}
+
+h3{
+  font-size: 15px;
+  margin-left: 70%;
+}
+
+p{
+  font-family: 'Ubuntu Mono', sans-serif;
+  font-size: 12px;
+  margin-left: 7%;
+}
+
+
+.dessert{
+  text-align: center;
+  background-color: #FCFF96;
+  border-radius: 10px;
+}
+
+.dessert-price{
+  text-align: center;
+}
+
+#logo{
+  text-align: center;
+}
+
+
+.bar{
+  border-top: 2px dotted green;
+  height: 1px;
+}
+
+#entree{
+  background-color: #96FFF8;
+  border-radius: 10px;
+}
+
+#appetizer{
+  background-color: #96FFDA;
+  border-radius: 10px;
+}
+
+#drink{
+  background-color: #FF6B6B;
+  border-radius: 10px;
+  height:725px;
+  margin-bottom: 0px;
+}
+
+
+/*Porfolio Page*/
+
+.portfolio-list{
+  font-family: ;
+}
+
